@@ -22,6 +22,7 @@
   * [Apx: Classic Applications](rcs.101/graduation/apx-classic-applications.md)
   * [Apx: Techniques & Tricks](rcs.101/graduation/apx-techniques-and-tricks.md)
   * [Apx: Morris Traversal](rcs.101/graduation/apx-morris-traversal.md)
+  * [Apx: RCS.101 x Miters W6](rcs.101/graduation/apx-rcs.101-x-miters-w6.md)
 
 ## 📚 RCS.102
 

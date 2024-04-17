@@ -25,6 +25,10 @@ layout:
 
 > Designing efficient divide-and-conquer algorithms can be difficult. As in [mathematical induction](https://en.wikipedia.org/wiki/Mathematical\_induction), it is often necessary to generalize the problem to make it amenable to a recursive solution. The correctness of a divide-and-conquer algorithm is usually proved by mathematical induction, and its computational cost is often determined by solving [recurrence relations](https://en.wikipedia.org/wiki/Recurrence\_relation).
 
+> Related
+>
+> * [**Decrease and Conquer**](https://erode-sengunthar.ac.in/wp-content/uploads/2023/07/DECREASE-AND-CONQUER-TECHNIQUE-1-3.pdf), Transform and Conquer
+
 {% hint style="info" %}
 #### Learning Material (understanding classic instances of Divide & Conquer)
 
