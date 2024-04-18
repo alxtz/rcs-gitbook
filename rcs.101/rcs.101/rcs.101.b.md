@@ -126,9 +126,16 @@ Searching algorithms are used to Sorting algorithms are used to rearrange a list
 {% endhint %}
 
 {% hint style="info" %}
-#### Knuth Shuffle
+#### KFY (Knuth-Fisher-Yates) Shuffle
 
-* [ ] [**Fisher-Yates (Knuth) Shuffle Tutorial**](https://www.youtube.com/watch?v=tLxBwSL3lPQ)
+> * Quora: [**Are there any better shuffling algorithms than Fisher–Yates shuffle?**](https://www.quora.com/Are-there-any-better-shuffling-algorithms-than-Fisher%E2%80%93Yates-shuffle)
+> * Coding Horror: [**The Danger of Naïveté (shuffling)**](https://blog.codinghorror.com/the-danger-of-naivete/)
+> * Coding Horror: [**Shuffling**](https://blog.codinghorror.com/shuffling/)
+> * UMass: [**Correctness Proof for Fisher-Yates Shuffle**](https://people.cs.umass.edu/\~phaas/CS590M/handouts/Fisher-Yates-proof.pdf)
+> * StackExchange: [**Fisher-Yates algorithm proof**](https://math.stackexchange.com/questions/3920328/fisher-yates-algorithm-proof)
+> * [**The intuition behind Fisher-Yates shuffling**](https://eli.thegreenplace.net/2010/05/28/the-intuition-behind-fisher-yates-shuffling/)
+
+* [ ] [**KFY Shuffle Tutorial**](https://www.youtube.com/watch?v=tLxBwSL3lPQ)
 * [ ] **M** [**384. Shuffle an Array**](https://leetcode.com/problems/shuffle-an-array/)
 {% endhint %}
 
