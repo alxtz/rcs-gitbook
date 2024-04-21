@@ -167,7 +167,6 @@ Searching algorithms are used to Sorting algorithms are used to rearrange a list
 * [ ] **Coursera: Algorithms I: System Sort**
 * [ ] **M** [**912. Sort an Array**](https://leetcode.com/problems/sort-an-array/) with Merge Sort
 * [ ] **E** [**479 · Second Max of Array**](https://www.lintcode.com/problem/479/?\_from=problem\_tag\&fromId=383) with Quick Sort
-* [ ] **E** [**464 · Sort Integers II**](https://www.lintcode.com/problem/464/description) with Heap Sort
 
 #### Practices
 

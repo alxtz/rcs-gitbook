@@ -116,6 +116,7 @@ A heap is a tree-based data structure that usually comes in two varieties: (1) M
 
 * [**LeetCode the Hard Way: Heap (Priority Queue)**](https://leetcodethehardway.com/tutorials/basic-topics/heap)
   * [ ] **E** [**1046. Last Stone Weight**](https://leetcode.com/problems/last-stone-weight/)
+  * [ ] **E** [**464 · Sort Integers II**](https://www.lintcode.com/problem/464/description) with Heap Sort
 * [**Google Tech Dev Guide: Heaps**](https://techdevguide.withgoogle.com/paths/data-structures-and-algorithms/#sequence-5)
 {% endhint %}
 
