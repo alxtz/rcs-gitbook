@@ -28,6 +28,7 @@ layout:
   * **StackOverflow:** [**QuickSelect with Hoare partition scheme**](https://stackoverflow.com/questions/58331986/quickselect-with-hoare-partition-scheme)
   * **CppReference.com:** [**std::nth\_element**](https://en.cppreference.com/w/cpp/algorithm/nth\_element)
   * [**3-Way QuickSort (Dutch National Flag)**](https://www.geeksforgeeks.org/3-way-quicksort-dutch-national-flag/)
+  * [**Toptal: Quick Sort 3 Way**](https://www.toptal.com/developers/sorting-algorithms/quick-sort-3-way)
 * [**HeapSelect**](https://www.geekviewpoint.com/java/search/heapselect)
 * **Wikipedia:**[ **Intro-select**](https://en.wikipedia.org/wiki/Introselect)
 * **The D Language Foundation:** [**Fast Deterministic Selection**](http://erdani.org/research/sea2017.pdf)
