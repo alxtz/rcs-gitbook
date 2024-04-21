@@ -179,6 +179,5 @@ Searching algorithms are used to Sorting algorithms are used to rearrange a list
 * [ ] 能描述出 Merge/Quick/Heap Sort 在 time, space, stable, in-place 上的差別
 * [ ] 提供 Merge/Quick/Heap Sort 的實作程式碼
 * [ ] **E** [**1153 · string sorting**](https://www.lintcode.com/problem/1153/?showListFe=true\&page=1\&problemTypeId=2\&tagIds=383\&level=1\&ordering=id\&pageSize=50)
-* [ ] **M** [**508 · Wiggle Sort**](https://www.lintcode.com/problem/508/?showListFe=true\&page=1\&problemTypeId=2\&tagIds=383\&level=2\&ordering=level\&pageSize=50)
 * [ ] **M** [**3731 · Minimize Product Sum of Two Arrays**](https://www.lintcode.com/problem/3731/description)
 {% endhint %}
