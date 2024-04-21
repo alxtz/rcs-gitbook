@@ -142,8 +142,11 @@ Searching algorithms are used to Sorting algorithms are used to rearrange a list
 {% hint style="info" %}
 #### Quick Select
 
-* [ ] [**Coursera: Quick Select**](https://www.coursera.org/learn/algorithms-part1/lecture/UQxFT/selection)
-* [ ] **M** [**215. Kth Largest Element in an Array**](https://leetcode.com/problems/kth-largest-element-in-an-array/)
+> * [**Coursera: Quick Select**](https://www.coursera.org/learn/algorithms-part1/lecture/UQxFT/selection)
+> * [**Algorithms with Attitude - Quick Sort and Quick Select**](https://www.youtube.com/watch?v=v-1EGgaTFuw)
+>   * **This is one solid material to understand Quick Select, Quick Sort, various partition schemes, and in which case would Quick Sort/Quick Select fall into the** $$O(n^2)$$**edge)**
+
+* [ ] **M** [**215. Kth Largest Element in an Array**](https://leetcode.com/problems/kth-largest-element-in-an-array/) (implement via either Quick Select or Median of Medians)
 * [ ] **M** [**973. K Closest Points to Origin**](https://leetcode.com/problems/k-closest-points-to-origin/)
 * [ ] **M** [**324. Wiggle Sort II**](https://leetcode.com/problems/wiggle-sort-ii/) (achieve $$O(n)$$ time, $$O(1)$$ space)
 
