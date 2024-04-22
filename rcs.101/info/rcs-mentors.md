@@ -25,7 +25,7 @@ layout:
 >
 > These people were all battle-tested teacher/trainers. Who can deliver consistent, objective feedback, advices. And point you to any optimal learning path based on the candidate's situation.
 
-<table data-view="cards"><thead><tr><th></th><th></th><th></th></tr></thead><tbody><tr><td><h4>Alex Tzeng</h4></td><td><p><img src="../.gitbook/assets/image (57).png" alt="" data-size="original"></p><ul><li><a href="https://www.linkedin.com/in/alxtz/">LinkedIn</a></li></ul></td><td></td></tr><tr><td><h4>Alvin</h4></td><td><ul><li><a href="https://en.wikipedia.org/wiki/Beihang_University">Beihang University</a> Graduate</li></ul></td><td></td></tr><tr><td><h4>游諭</h4></td><td><ul><li>Self-taught master</li></ul></td><td></td></tr></tbody></table>
+<table data-view="cards"><thead><tr><th></th><th></th><th></th></tr></thead><tbody><tr><td><h4>Alex Tzeng</h4></td><td><p><img src="../.gitbook/assets/image (57).png" alt="" data-size="original"></p><ul><li><a href="https://www.linkedin.com/in/alxtz/">LinkedIn</a></li></ul></td><td></td></tr><tr><td><h4>Alvin</h4></td><td><ul><li><a href="https://en.wikipedia.org/wiki/Beihang_University">Beihang University</a> Graduate</li></ul></td><td></td></tr><tr><td><h4>游諭</h4></td><td><ul><li>Self-taught master</li><li><a href="https://www.linkedin.com/in/tsungyu-yu-a558b416a/">LinkedIn</a></li></ul></td><td></td></tr></tbody></table>
 
 ### What do RCS Mentors Offer?
 
